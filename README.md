@@ -1,6 +1,6 @@
 /////code absen/////
-cara download dan menjalankan kalian hanya perlu mendownload 2 file .zip di atas untuk menjalankan sistem ini cara nya mudah kalian hanya perlu memiliki domain atau server yg bisa digunakan untuk menyimpan data sqlny file ini, hanya perlu dipindahkan dan diganti dibagian semua keamanan dan cara sistemnya bekerja dgn cara berikut : 
-Berikut adalah penjelasan mengenai **cara kerja sistem** serta **panduan langkah demi langkah** untuk memindahkan dan menjalankan aplikasi web absensi ini ke hosting atau domain baru, disusun dengan bahasa yang mudah dipahami.
+cara download dan menjalankan kalian hanya perlu mendownload 2 file .zip di atas dan ini bisa menggunakan hostingan gratis, untuk menjalankan sistem ini cara nya mudah kalian hanya perlu memiliki domain atau server yg bisa digunakan untuk menyimpan data sqlny file ini, hanya perlu dipindahkan dan diganti dibagian semua keamanan dan cara sistemnya bekerja dgn cara berikut : 
+**cara kerja sistem** serta **panduan langkah demi langkah** untuk memindahkan dan menjalankan aplikasi web absensi ini ke hosting atau domain baru, disusun dengan bahasa yang mudah dipahami.
 
 ---
 
